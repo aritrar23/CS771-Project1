@@ -10,6 +10,7 @@ The problem statement can be found [here.](./problem_statement.pdf)
 ## Contributors
 
 - [Aritra Ray](https://github.com/aritrar23)
+- Ashwin Barnwal
 - R.Charan
 - Sanjna S
 - [Vedhanth Balasubramanian](https://github.com/vedh18)
